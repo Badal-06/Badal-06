@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="center">Hey there 👋, I'm BADAL</h1>
+<h3 align="center">🚀 Future Full-Stack Developer | AI/ML Enthusiast | CSE Undergrad</h3>
 
-<!--
-**Badal-06/Badal-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://1drv.ms/i/c/7075acc895b55ca1/Ee1Ydnb4W-tNgtR4DmkTYNoBkhFXvHqVF9wUfh8gE8MnRA?e=Ggxhfb"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me  
+- 🎓 B.Tech CSE | Class of 2028  
+- 💡 Passionate about **AI/ML**, **Web Development**, and **Creative Coding Projects**  
+- 🔭 Currently diving deep into:  
+   &nbsp;&nbsp;&nbsp;&nbsp;• Full-Stack Development (React, Node.js, MongoDB)  
+   &nbsp;&nbsp;&nbsp;&nbsp;• Python Projects with real-world use  
+   &nbsp;&nbsp;&nbsp;&nbsp;• Ard786uino + C++ experiments  
+- 🧠 Learning by building, breaking, and fixing  
+- 💬 I ask questions, a lot — because curiosity leads to mastery.
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:** Python, C.   
+**Tools:** Git & GitHub, VS Code.  
+**Domains:** Full Stack Web, AI/ML, Arduino, Automation
+
+---
+
+### 🚀 Notable Projects
+
+#### 🤖 Automatic Message Sender  
+This will help you to send specific message to someone in a loop. Just writing  4 line code 😉.
+
+#### 📞 Phone Number Locator  
+Locate anybody with his/her number that tell you the country and carrier of number ☎️.
+
+
+---
+
+### 🔄 Current Goals
+- ✅ Complete full-stack roadmap (React, Node, DBs, Hosting)  
+- ✅ Master TailwindCSS and build aesthetic UIs  
+- ⏳ Start machine learning journey (soon after full-stack)
+
+---
+
+### 📫 Let’s Connect!
+
+- 🔗 [GitHub](https://github.com/Badal-06)
+- 📧 Email: **badalpanwar91@gmail.com** 
+- 🌐 Portfolio: *Coming Soon...
+
+
+
