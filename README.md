@@ -1,10 +1,8 @@
 <h1 align="center">Hey there 👋, I'm BADAL</h1>
 <h3 align="center">🚀 Future Full-Stack Developer | AI/ML Enthusiast | CSE Undergrad</h3>
 
-<p align="center">
-  <img src="https://i.ibb.co/rKrn1Fj6/naruto-coding-loop.gif"/>
-</p>
-
+ ![Image](https://github.com/user-attachments/assets/0643aa0a-3805-4091-b139-6391f15bf388)
+ 
 ---
 
 ### 👨‍💻 About Me  
