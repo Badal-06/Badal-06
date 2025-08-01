@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Future Full-Stack Developer | AI/ML Enthusiast | CSE Undergrad</h3>
 
 <p align="center">
-  <img src="https://1drv.ms/i/c/7075acc895b55ca1/Ee1Ydnb4W-tNgtR4DmkTYNoBkhFXvHqVF9wUfh8gE8MnRA?e=Ggxhfb"/>
+  <img src="https://i.ibb.co/rKrn1Fj6/naruto-coding-loop.gif"/>
 </p>
 
 ---
