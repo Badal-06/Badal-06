@@ -11,7 +11,7 @@
 - 🔭 Currently diving deep into:  
    &nbsp;&nbsp;&nbsp;&nbsp;• Full-Stack Development (React, Node.js, MongoDB)  
    &nbsp;&nbsp;&nbsp;&nbsp;• Python Projects with real-world use  
-   &nbsp;&nbsp;&nbsp;&nbsp;• Ard786uino + C++ experiments  
+   &nbsp;&nbsp;&nbsp;&nbsp;• Arduino  + C++ experiments  
 - 🧠 Learning by building, breaking, and fixing  
 - 💬 I ask questions, a lot — because curiosity leads to mastery.
 
