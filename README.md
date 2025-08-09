@@ -33,6 +33,13 @@ This will help you to send specific message to someone in a loop. Just writing  
 #### 📞 Phone Number Locator  
 Locate anybody with his/her number that tell you the country and carrier of number ☎️.
 
+---
+
+## 🐍 Snake Contribution Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Badal-06/PYTHON/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
