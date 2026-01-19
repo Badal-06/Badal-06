@@ -54,6 +54,17 @@ Locate anybody with his/her number that tell you the country and carrier of numb
 
 ### 📫 Let’s Connect!
 
-- 🔗 [GitHub](https://github.com/Badal-06)
-- 📧 Email: **badalpanwar91@gmail.com** 
-- 🌐 Portfolio: *Coming Soon...
+<p align="center">
+  <a href="https://github.com/Badal-06">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:badalpanwar91@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/badal-617143366/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <!-- <a href="https://portfolio-link.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a> -->
+</p>
